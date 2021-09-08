@@ -46,5 +46,3 @@ ou
 > Helper => Ligava o BOT pra eu testar quando meu PC não rodava emulador pra executar o Termux - [Japa 777](https://www.youtube.com/channel/UCxJHuL1YeMTJUE8I1qEjZmw)
 
 > Ajudou no numero de tokens para testes - [Sulista (videos em breve)](https://youtube.com/channel/UCWHPxJlk6SsWQyqc0PnyCRw), [Cleitin](https://www.youtube.com/channel/UCRNJPQ_6U3LPlw4YzvoXePQ) e [Silverzin God](https://www.youtube.com/channel/UCMgdQnoTd00CMqwU3uNn9tg)
-
-> Deu suporte + Helper - [Toalha / Flink](https://ghostbin.com/paste/WoKLe)
