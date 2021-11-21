@@ -35,7 +35,7 @@ ou
 > .menu
 ```
 ## Equipe <3
-> Criador do BOT - [davizinmaker](https://abre.ai/davizinmakerk/)
+> Criador do BOT - [tekashimaker](https://abre.ai/tekashidusbot)
 
 > Criador da API - [Baileys](https://github.com/adiwajshing/Baileys/)
 
